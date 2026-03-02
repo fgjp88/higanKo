@@ -1,0 +1,15 @@
+{
+  "display_name": "피안화",
+  "loading_order": 60,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "dist/index.js",
+  "css": "dist/index.css",
+  "author": "Limerence",
+  "version": "0.1.5",
+  "homePage": "https://github.com/fgjp88/higanbana",
+  "auto_update": true
+}
+
+
